@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1417279715 source:d:\codeblocks\my project\abf\main.cpp
+	<iostream>
+	<algorithm>
+	<queue>
+	<cstring>
+

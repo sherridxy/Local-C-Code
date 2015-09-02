@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1416658688 source:d:\codeblocks\my project\hufmanÊ÷\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+

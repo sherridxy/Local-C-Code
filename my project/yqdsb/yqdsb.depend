@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1417320214 source:d:\codeblocks\my project\yqdsb\main.cpp
+	<iostream>
+	<algorithm>
+	<queue>
+	<cstring>
+

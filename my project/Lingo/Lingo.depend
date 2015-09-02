@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428300793 source:d:\codeblocks\my project\lingo\main.cpp
+	<iostream>
+	<fstream>
+	<Algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1424860395 source:d:\codeblocks\my project\aco\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+

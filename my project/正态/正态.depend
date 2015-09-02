@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1437549821 source:d:\codeblocks\my project\ÕýÌ¬\main.cpp
+	<iostream>
+	<time.h>
+	<cmath>
+	<cstdio>
+	<vector>
+

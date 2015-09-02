@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433332734 source:d:\codeblocks\my project\数值分析3-4\二分法\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414591521 source:d:\codeblocks\my project\模拟计算器的实现\main.cpp
+	<iostream>
+	<cmath>
+	<assert.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1429715440 source:d:\codeblocks\my project\bluebridgecup\main.cpp
+	<iostream>
+	<ctime>
+

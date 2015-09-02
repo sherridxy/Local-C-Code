@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434641433 source:d:\codeblocks\my project\数值分析3-4\迭代法加速\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1413364413 source:d:\codeblocks\my project\java\main.cpp
+	<iostream>
+	"dFunction.h"
+
+1413363963 d:\codeblocks\my project\java\dfunction.h
+

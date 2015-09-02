@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1437999972 source:d:\codeblocks\my project\数模一轮选拔仿真程序\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdio>
+	<cmath>
+	<vector>
+	<algorithm>
+

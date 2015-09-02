@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1437207419 source:d:\codeblocks\my project\learning for stl\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<vector>
+	<algorithm>
+

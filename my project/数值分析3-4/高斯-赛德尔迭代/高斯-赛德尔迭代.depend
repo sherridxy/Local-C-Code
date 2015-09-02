@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1433337938 source:d:\codeblocks\my project\数值分析3-4\高斯-赛德尔迭代\main.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+
